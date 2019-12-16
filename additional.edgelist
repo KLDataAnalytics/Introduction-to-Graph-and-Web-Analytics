@@ -1,0 +1,10 @@
+New York,Manhattan,{'distance': 6.7}
+Jersey City,Manhattan,{'distance': 8.8}
+Newark,Manhattan,{'distance': 27.6}
+Boston,Manhattan,{'distance': 211.1}
+Washington,Manhattan,{'distance': 230.7}
+Baltimore,Manhattan,{'distance': 191.3}
+Rochester,Manhattan,{'distance': 340.8}
+Norfolk,Manhattan,{'distance': 367.0}
+Philadelphia,Manhattan,{'distance': 98.2}
+Guttenberg,Manhattan,{'distance': 12.9}
